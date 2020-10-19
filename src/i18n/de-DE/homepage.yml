@@ -1,0 +1,52 @@
+locale: de-DE
+translations:
+    ###########################################################################
+    # Homepage
+    ###########################################################################
+
+    - key: homepage.hand_coded
+      t: Hand-coded in Japan.
+    - key: homepage.leave_issue
+      t: Erstelle ein Issue
+    - key: homepage.get_in_touch
+      t: Nimm Kontakt zu uns auf
+
+    - key: homepage.made_by
+      t: 'The State of CSS is Made by:'
+    - key: homepage.leave_issue
+      t: Erstelle ein Issue
+
+    - key: homepage.previous_years
+      t: 'Vergangene Jahre:'
+    - key: homepage.intro
+      t: >
+          ## CSS entwickelt sich schneller weiter als jemals zuvor.
+
+          Flexbox, Grid, Multi-Column… und nicht zuletzt komplett neue Ansätze wie CSS-in-JS.
+
+          Nach dem Erfolg unserer jährlichen [State Of JavaScript](https://stateofjs.com) Umfrage, haben wir also entschieden 
+          uns in die Welt der Styles und Selektoren zu wagen. So können wir dabei helfen die neusten Trends zu identifizieren 
+          und versuchen die immer größer werdende "Frontend Divide" zu überbrücken!
+
+    - key: homepage.take_survey
+      t: An der Umfrage teilnehmen
+
+    - key: homepage.view_results
+      t: Ergebnisse aus 2019 ansehen
+
+    - key: share.help_spread
+      t: Sag es weiter!
+
+    - key: newsletter.stay_tuned
+      t: Immer auf dem aktuellsten Stand bleiben!
+    - key: newsletter.leave_your_email
+      t: Hinterlasse uns deine E-Mail und wir melden uns bei dir, wenn die nächste Umfrage startet.
+
+    - key: author.sacha.bio
+      t: >
+          Urheber der [Nivo](http://nivo.rocks/) JavaScript Data Visualization Library und von 
+          [Mozaik](http://mozaik.rocks/), einem Tool zum Bauen ansprechender Dashboards.
+    - key: author.raphael.bio
+      t: >
+          Urheber des [Sidebar](http://sidebar.io) Daily Newsletters und
+          von [VulcanJS](http://vulcanjs.org), einem React+GraphQL Open-Source Framework.

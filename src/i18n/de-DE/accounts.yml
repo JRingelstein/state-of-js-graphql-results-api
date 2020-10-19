@@ -1,0 +1,73 @@
+locale: de-DE
+translations:
+  - key: accounts.error_incorrect_password
+    t: Falsches Passwort
+  - key: accounts.error_email_required
+    t: E-Mail erforderlich
+  - key: accounts.error_email_already_exists
+    t: E-Mail existiert bereits
+  - key: accounts.error_invalid_email
+    t: Ungültige E-Mail
+  - key: accounts.error_minchar
+    t: Dein Passwort ist zu kurz
+  - key: accounts.error_unknown
+    t: Unbekannter Fehler
+  - key: accounts.error_user_not_found
+    t: User nicht gefunden
+  - key: accounts.error_username_already_exists
+    t: Username existiert bereits
+  - key: accounts.enter_username_or_email
+    t: Gib deinen Username oder deine E-Mail an
+  - key: accounts.error_internal_server_error
+    t: Interner Server Fehler
+  - key: accounts.error_token_expired
+    t: Ungültiger Token zum Passwort zurücksetzen
+  - key: accounts.username_or_email
+    t: Username oder E-Mail
+  - key: accounts.enter_username
+    t: Gib deinen Username an
+  - key: accounts.username
+    t: Username
+  - key: accounts.enter_email
+    t: Gib deine E-Mail an
+  - key: accounts.email
+    t: E-Mail
+  - key: accounts.enter_password
+    t: Gib dein Passwort ein
+  - key: accounts.password
+    t: Passwort
+  - key: accounts.choose_password
+    t: Wähle dein Passwort
+  - key: accounts.change_password
+    t: Ändere dein Passwort
+  - key: accounts.reset_your_password
+    t: Setze dein Passwort zurück
+  - key: accounts.set_password
+    t: Setze dein Passwort
+  - key: accounts.enter_new_password
+    t: Gib dein neues Passwort ein
+  - key: accounts.new_password
+    t: Neues Passwort
+  - key: accounts.forgot_password
+    t: Passwort vergessen
+  - key: accounts.sign_up
+    t: Registrieren
+  - key: accounts.sign_in
+    t: Anmelden
+  - key: accounts.sign_out
+    t: Abmelden
+  - key: accounts.cancel
+    t: Abbrechen
+  - key: accounts.info_email_sent
+    t: E-Mail verschickt.
+  - key: accounts.info_password_changed
+    t: Passwort geändert.
+  - key: accounts.please_pick_password
+    t: Bitte wähle ein neues Passwort um fortzufahren.
+  - key: accounts.please_log_in
+    t: Bitte melde dich an oder registriere dich um zu starten.
+  - key: accounts.logged_in_as
+    t: Angemeldet als {email}
+  - key: accounts.questions
+    t: >
+    Wenn du Fragen dazu hast, wie wir deine Daten verwenden, oder möchtest, dass wir deine Daten aus unseren Datensätzen entfernen, nimm bitte <a href="mailto:hello@stateofjs.com">Kontakt</a> zu uns auf.
